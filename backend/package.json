@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^4.21.2",
+    "express-mongo-sanitize": "^2.0.0",
+    "express-rate-limit": "^7.5.0",
+    "helmet": "^3.0.0",
+    "mongoose": "^8.14.0"
+  }
+}
